@@ -1,0 +1,34 @@
+.border{
+    /* border: 2px solid red; */
+    margin: 3px;
+}
+
+.display-flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.align_items{
+    align-items: center;
+}
+
+.bg-black{
+    background-color: #000000;
+}
+
+
+.bg-grey{
+    background-color: #121212;
+}
+
+.invert{
+    filter: invert();
+}
+
+.bor-rad{
+    border-radius: 10px;
+    
+}
